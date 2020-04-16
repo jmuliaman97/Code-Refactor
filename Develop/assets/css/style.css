@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* I put everything in order so it's the same as the as html */
 .content {
     width: 75%;
     display: inline-block;
@@ -74,7 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* combined all the class to make it look more simple */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
